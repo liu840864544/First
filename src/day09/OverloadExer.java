@@ -9,5 +9,6 @@ public class OverloadExer {
         System.out.println("hot-fix master!");
         System.out.println("123456");
         System.out.println("tuotuo");
+        System.out.println("push test");
     }
 }
