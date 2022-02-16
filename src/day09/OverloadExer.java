@@ -10,5 +10,6 @@ public class OverloadExer {
         System.out.println("123456");
         System.out.println("tuotuo");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
